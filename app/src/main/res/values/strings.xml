@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PEPS</string>
+    <string name="app_name">UAES PEPS</string>
     <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
     <string name="ble_scan_stop">BLE scan just stopped.</string>
     <string name="test">Test string.</string>
